@@ -12,4 +12,13 @@ They have provided multiple attributes around Employee's past and current perfor
 The file contains the datavisualisation.py file which explains the how the data is processed using numpy and pandas.
 The visualisation of relation between various features is done using matplotlib and seaborn.
 Various hypothesis about the relation between features and the target variable are made and analysed.
-Feature selection and model building are done in further steps.
+
+Feature selection and model building are done in the file named modelBuildingForImbalanceClassification which shows how the various models are selected and the paremeter tuning affects the classification for imbalance classification 
+
+
+
+
+
+
+If you find the code usefull  or have any suggestion for hyperparameter tuning for imbalnce classification please mail me at -
+abhisheksharma4194iitkgp@gmail.com / abhi4194@gmailcom
